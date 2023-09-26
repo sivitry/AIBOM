@@ -1,0 +1,35 @@
+AIBOM Standard
+AIBOM Format、AIBOM Testing、AIBOM Risk Management
+
+AIBOM Format: 
+3 Dimensions: Data, Model, Servcice
+
+4 Data Fields: 
+<Data 1>
+Source
+Amount
+License
+Label
+
+2 Model Fields:
+<Model 1>
+Model Type: Image/Text/Multumodal
+Reference Model: YOLO/BERT/...
+
+2 Service Fields:
+<Service 1>
+Service Type: SaaS/Embeded/...
+Service Model: <Model 1>
+
+
+AIBOM Testing
+Data Test
+Model Test
+Service Test
+
+AIBOM Risk Management
+Data Risk
+Model Risk
+Service Risk
+
+
